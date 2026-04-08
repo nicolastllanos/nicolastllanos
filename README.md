@@ -31,9 +31,6 @@ Hola, soy Nicolás. Me apasiona transformar datos en conocimiento. Trabajo aplic
 ## Estadísticas de mi Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolastllanos&show_icons=true&theme=tokyonight" />
-  <br/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastllanos&theme=tokyonight" />
 </div>
 
