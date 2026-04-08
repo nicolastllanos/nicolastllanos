@@ -43,7 +43,7 @@ Hola, soy Nicolás. Me apasiona transformar datos en conocimiento. Trabajo aplic
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-llanos-a47a4a2a7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:nicolastllanos@gmail.com">
+  <a href="mailto:nicolas.llanos@alumni.uv.cl">
     <img src="https://img.shields.io/badge/-Correo-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
