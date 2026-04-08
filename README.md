@@ -10,7 +10,9 @@
     <a href="https://nicolastllanos.github.io/" target="_blank">Visita mi Portafolio Web</a>
   </p>
 
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C27B0&width=435&lines=An%C3%A1lisis+Estad%C3%ADstico;Modelos+de+Machine+Learning;Motores+de+Big+Data" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
