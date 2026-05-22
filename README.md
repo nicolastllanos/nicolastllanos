@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola!%20Soy%20Nicolás%20Llanos&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
   <p align="center">
-    <strong>Data Scientist | Machine Learning | Big Data</strong> <br />
+    <strong>Data Scientist Jr. | Machine Learning | Big Data</strong> <br />
     <i>Aquí documento y construyo flujos de inteligencia. Aplicando análisis estadístico y modelos de Machine Learning.</i>
   </p>
 
