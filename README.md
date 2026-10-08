@@ -73,7 +73,7 @@ Estoy interesado en desarrollar soluciones que conecten **datos, tecnología y n
 ## Conecta conmigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-llanos-a47a4a2a7/" target="_blank">
+  <a href="[https://www.linkedin.com/in/nicol%C3%A1s-llanos-a47a4a2a7/](https://www.linkedin.com/in/nicol%C3%A1s-llanos-tello-a47a4a2a7/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:nicolas.llanos@alumni.uv.cl">
