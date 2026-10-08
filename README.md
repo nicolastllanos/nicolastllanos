@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola!%20Soy%20Nicolás%20Llanos&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
   <p align="center">
-    <strong>Industrial Engineer | Business Intelligence | Data Analytics | Control de Gestión | Python | SQL | Power BI</strong> <br />
+    <strong>Ingeniero Civil Industrial | Business Intelligence | Data Analytics | Control de Gestión | Python | SQL | Power BI</strong> <br />
     <i>Transformando datos en indicadores, automatizaciones e información útil para la toma de decisiones.</i>
   </p>
 
